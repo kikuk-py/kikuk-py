@@ -1,20 +1,4 @@
 ## Hi there 👋
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-
-# 🐍 Python 🤖 AI 📊 Machine Learning
-
-**
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="120"/>
-**
-
-✨ Dream.
-💻 Code.
-🤖 Train.
-🚀 Deploy.
-
-</div>
 
 <!--
 **kikuk-py/kikuk-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
