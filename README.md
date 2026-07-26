@@ -5,9 +5,9 @@
 
 # 🐍 Python 🤖 AI 📊 Machine Learning
 
-*"Not every hero wears a cape..."*
+*""*
 
-*"Some write Python scripts until 3 AM."* ☕
+*""*
 
 ✨ Dream.
 💻 Code.
