@@ -5,9 +5,9 @@
 
 # 🐍 Python 🤖 AI 📊 Machine Learning
 
-*""*
-
-*""*
+**
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="120"/>
+**
 
 ✨ Dream.
 💻 Code.
