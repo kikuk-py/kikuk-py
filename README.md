@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+[![TikTok](https://img.shields.io/badge/TikTok-@simeong57-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@username)
 <!--
 **kikuk-py/kikuk-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
