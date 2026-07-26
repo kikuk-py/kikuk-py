@@ -3,7 +3,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 
-# 🐍 Python ❤️ AI ❤️ Machine Learning
+# 🐍 Python 🤖 AI 📊 Machine Learning
 
 *"Not every hero wears a cape..."*
 
